@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "address_book", "address_book\address_book.pyproj", "{F38B90F4-9C77-4C7A-86F1-6ED98917E705}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{2E46B09B-86BC-45E0-98C9-C871CF1BAA32}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\names.txt = ..\..\..\..\Desktop\names.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38B90F4-9C77-4C7A-86F1-6ED98917E705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B90F4-9C77-4C7A-86F1-6ED98917E705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8E902E-135C-4AC5-9E95-CE21C78C4B1C}
+	EndGlobalSection
+EndGlobal
